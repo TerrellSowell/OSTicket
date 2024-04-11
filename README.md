@@ -9,9 +9,8 @@ OsTicket is an open source Helpdesk ticketing system. The OsTicket lab is aimed 
 ## Skills
 - Advanced understanding of ticket properties.
 - Proficiency in analyzing and interpreting SLAs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Ability to generate and recognize Departments, Permissions, and Users.
+- Development of critical thinking and problem-solving skills in IT Support.
 
 ### Environments and Tools Used
 
