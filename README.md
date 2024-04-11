@@ -13,12 +13,13 @@ OsTicket is an open source Helpdesk ticketing system. The OsTicket lab is aimed 
 - Enhanced knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
-### Tools Used
-[Bullet Points - Remove this afterwards]
+### Environments and Tools Used
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Mircosoft Azure (Virtual Machines)
+- Remote Desktop
+- IIS (Internet Information Services)
+- OsTicket
+- Windows 10
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
