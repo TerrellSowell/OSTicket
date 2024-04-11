@@ -21,6 +21,6 @@ OsTicket is an open source Helpdesk ticketing system. The OsTicket lab is aimed 
 - Windows 10
 
 ## Steps
-* **Step 1: Installing OsTicket on Windows 10 (VM)**
-  * 
+* **Step 1: Installing OsTicket on Windows 10 (VM)**<p>
+- 
   
