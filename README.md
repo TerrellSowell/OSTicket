@@ -24,7 +24,7 @@ OsTicket is an open source Helpdesk ticketing system. This OsTicket lab is aimed
 * **Step 1:Create a Windows 10 virtual machine(VM) in Azure**<p>
     - Create a resource group
     - Create a Windows 10 virtual machine
-    - Copy and paste the virtual machine's public network address into the remote desktop application to access the VM <p>
-* **Step 2: Install OsTicket** <p>
-    
+    - Copy and paste the virtual machine's public network address into the remote desktop application to access the VM
+
+* **Step 2: Install OsTicket**
   
