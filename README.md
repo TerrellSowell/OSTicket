@@ -62,7 +62,7 @@ OsTicket is an open source Helpdesk ticketing system. This OsTicket lab is aimed
 * **Step 6: Configure SLA**<p>
     - SLA Plans or Service Level Agreements. The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.
     - In Admin Panel head to Manage and click SLA
-    - Example shown in photos I gave specific SLA tiers from highest priority to lowest priority:
+    - Example shown in photos below are specific SLA tiers from highest priority to lowest priority:
     - SEV-A with 1 hour Grace Period, 24/7 Schedule, suitable for tickets that are business critical
     - SEV-B with 4 hour Grace Period, 24/7 Schedule, suitable for tickets affecting employees such as troubleshooting or PC problems
     - SEV-C with 8 hour Grace Period, business hours Schedule, suitable for tickets requesting new equipment 
@@ -75,12 +75,12 @@ OsTicket is an open source Helpdesk ticketing system. This OsTicket lab is aimed
 * **Step 7: Configure Users (Customers) and create User ticket** <p>
 Users can create an account and log-in to create a ticket or check a ticket’s status. Users or ticket creators are associated with their email address as the unique identifier of each user. The User Directory, located on the Agent Panel, allows agents to search tickets by user as well as create Organizations to associate the user to. Agents can be configured as internal Account Managers for tickets created by users of an Organization.
     - In Agent Panel head to Users and click Add New
-    - Example shown in photo I added a user and created a hedlpdesk simulation ticket summarizing a issue the user has. From the End User's side (Karen), they create a ticket through osTicket's local host site and fill out their information, and added the issue for submission. 
+    - Example shown in photo below are as follows: I added a user and created a hedlpdesk simulation ticket summarizing a issue the user has. From the End User's side (Karen), they create a ticket through osTicket's local host site and fill out their information, and added the issue for submission. 
 ![support ticket os](https://github.com/TerrellSowell/OsTicket/assets/161978506/e8ef1414-824c-4d99-862f-b7563b19cc85)<p>
 
 * **Step 8: Intake, Assignment & Communication, Working the Issue, and Resolution**<p>
-    - Photos shown below in photos I logged into the created users account "Lebron James" and assigned the user ticket from Karen to myself, communicated with the system admin and user working giving updates while working through the issue,  and resolved the issue and closed the ticket with proper documentation.
-    - Ticket lifecycle practice creating, triaging, and solving tickets 
+    - Photos shown below in photos are as follows: I logged into the created users account "Lebron James" and assigned the user ticket from Karen to myself, communicated with the system admin and user working giving updates while working through the issue,  and resolved the issue and closed the ticket with proper documentation.
+    - (Ticket lifecycle practice creating, triaging, and closing tickets)
 ![Lebron logged in](https://github.com/TerrellSowell/OsTicket/assets/161978506/e5fe7d1b-054c-4edc-a83a-4b3ce986a04f)
 ![Lebron updated ](https://github.com/TerrellSowell/OsTicket/assets/161978506/940b6bcb-60fd-469b-938d-0111dbc3a80b)
 ![closed Lbron](https://github.com/TerrellSowell/OsTicket/assets/161978506/1ea0574d-1c84-4753-9f72-811966d62909)
