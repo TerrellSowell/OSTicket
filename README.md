@@ -39,6 +39,7 @@ OsTicket is an open source Helpdesk ticketing system. This OsTicket lab is aimed
 * **Step 4: Config Departments**<p>
     - Since tickets are routed through Departments in the help desk, there are many settings that can be set for each Department.
     - Admin Panel -> Agents -> Departments
+    - Example shown in photco I created ab "System Adminstrators" department
 ![add department SLA](https://github.com/TerrellSowell/OsTicket/assets/161978506/3f63bb51-052f-4fee-a53c-cd7bd921a361)
 ![add department 2](https://github.com/TerrellSowell/OsTicket/assets/161978506/b4bfc135-c8ec-4c4b-888e-a6678d9995a3)<p>
 
