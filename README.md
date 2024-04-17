@@ -51,6 +51,9 @@ OsTicket is an open source Helpdesk ticketing system. This OsTicket lab is aimed
 ![add teams](https://github.com/TerrellSowell/OsTicket/assets/161978506/2f79e029-0b9d-48f2-b175-0dba7a0efab5)
 ![add teams 2](https://github.com/TerrellSowell/OsTicket/assets/161978506/ce94839f-24e9-41b6-bf8b-6de5336eb422)<p>
 
+* **Step 6: Config Agents (I.T. Specialist)** <p>
+
+
 
 
 
