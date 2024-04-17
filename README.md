@@ -33,27 +33,31 @@ OsTicket is an open source Helpdesk ticketing system. This OsTicket lab is aimed
 * **Step 3: Config Roles on OsTicket**<p>
     - Roles are the permissions granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. An unlimited number of roles can be created and assigned to Agents with access to various departments.
     - Admin Panel -> Agents -> Roles
-    - Example shown in photo I created an "Supreme Admin" role
+    - Example shown in photos I created an "Supreme Admin" role
 ![add roles ](https://github.com/TerrellSowell/OsTicket/assets/161978506/43f00909-fec0-4088-be92-08dc943ea7f4)
 ![add roles 2](https://github.com/TerrellSowell/OsTicket/assets/161978506/5eb57d00-cfb0-4ea5-8439-f66407b75d1a)<p>
 
 * **Step 4: Config Departments**<p>
     - Since tickets are routed through Departments in the help desk, there are many settings that can be set for each Department.
     - Admin Panel -> Agents -> Departments
-    - Example shown in photo I created an "System Adminstrators" department
+    - Example shown in photos I created an "System Adminstrators" department
 ![add department SLA](https://github.com/TerrellSowell/OsTicket/assets/161978506/3f63bb51-052f-4fee-a53c-cd7bd921a361)
 ![add department 2](https://github.com/TerrellSowell/OsTicket/assets/161978506/b4bfc135-c8ec-4c4b-888e-a6678d9995a3)<p>
 
 * **Step 5: Config Teams**<p>
     - Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter.
     - Admin Panel -> Agents -> Teams
-    - Example shown I created two tiers of teams: Level I Support, Level II Support
+    - Example shown in photos I created two tiers of teams: Level I Support, Level II Support
 ![add teams](https://github.com/TerrellSowell/OsTicket/assets/161978506/2f79e029-0b9d-48f2-b175-0dba7a0efab5)
 ![add teams 2](https://github.com/TerrellSowell/OsTicket/assets/161978506/ce94839f-24e9-41b6-bf8b-6de5336eb422)<p>
 
 * **Step 6: Config Agents (I.T. Specialist)** <p>
-
-
+    - Agents are given access to the help desk with the intent to respond and resolve the tickets. When adding an Agent to the help desk, they will need to be assigned to a Primary Department and given a Primary Role for the Tickets/Tasks routed to that department. Agents can be given Extended Access to additional departments of the help desk as well as assigned different Roles to those departments; this can be configured in the Access tab of the Agent’s Profile.
+    - Admin Panel -> Agents -> Add New
+    - Example shown in photos I added "Lebron James" as an agent and gave him 
+![add new agents 1](https://github.com/TerrellSowell/OsTicket/assets/161978506/1a203573-c8e5-4d6a-8598-c38376deefac)
+![adding agent LB](https://github.com/TerrellSowell/OsTicket/assets/161978506/4dff397b-de05-4d45-b8fb-c39e8c4e63ee)
+![giving access to LB](https://github.com/TerrellSowell/OsTicket/assets/161978506/17ba4240-1890-4e3c-9215-57238e2218e3)
 
 
 
