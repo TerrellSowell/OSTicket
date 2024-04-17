@@ -53,7 +53,7 @@ OsTicket is an open source Helpdesk ticketing system. This OsTicket lab is aimed
 
 * **Step 6: Configure Agents (I.T. Specialist)** <p>
     - Agents are given access to the help desk with the intent to respond and resolve the tickets. When adding an Agent to the help desk, they will need to be assigned to a Primary Department and given a Primary Role for the Tickets/Tasks routed to that department. Agents can be given Extended Access to additional departments of the help desk as well as assigned different Roles to those departments; this can be configured in the Access tab of the Agent’s Profile.
-    - In Admin Panel head to Agents and then clcik Add New
+    - In Admin Panel head to Agents and then click Add New
     - Example shown in photos I added "Lebron James" as an agent and gave him access to specific deaprtments for ticket access.
 ![add new agents 1](https://github.com/TerrellSowell/OsTicket/assets/161978506/1a203573-c8e5-4d6a-8598-c38376deefac)
 ![adding agent LB](https://github.com/TerrellSowell/OsTicket/assets/161978506/4dff397b-de05-4d45-b8fb-c39e8c4e63ee)
