@@ -62,7 +62,7 @@ OsTicket is an open source Helpdesk ticketing system. This OsTicket lab is aimed
 * **Step 6: Configure SLA**<p>
     - SLA Plans or Service Level Agreements. The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.
     - In Admin Panel head to Manage and click SLA
-    - Example
+    - Example shown in photo 
 ![SLA1](https://github.com/TerrellSowell/OsTicket/assets/161978506/1a4fa2e5-a5f7-4c7f-ae39-1ebc935d22fb)
 ![SLA2](https://github.com/TerrellSowell/OsTicket/assets/161978506/01b5c1b1-8ce1-4b2e-a1f2-a99c4f68e602)
 ![SLA 3](https://github.com/TerrellSowell/OsTicket/assets/161978506/f7ad885e-9e6c-4640-978d-631f4b59e278)
