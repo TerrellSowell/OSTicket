@@ -72,7 +72,7 @@ OsTicket is an open source Helpdesk ticketing system. This OsTicket lab is aimed
 
 
 
-* **Step 7: Configure Users (Customers)** <p>
+* **Step 7: Configure Users (Customers) and create ticket** <p>
 Users can create an account and log-in to create a ticket or check a ticket’s status. Users or ticket creators are associated with their email address as the unique identifier of each user. The User Directory, located on the Agent Panel, allows agents to search tickets by user as well as create Organizations to associate the user to. Agents can be configured as internal Account Managers for tickets created by users of an Organization.
     - In Agent Panel head to Users and click Add New
     - Example shown in photo I added a user and created a ticket summarizing a issue the user has.  
