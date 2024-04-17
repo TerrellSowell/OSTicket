@@ -33,7 +33,7 @@ OsTicket is an open source Helpdesk ticketing system. This OsTicket lab is aimed
 * **Step 3: Configure Roles on OsTicket**<p>
     - Roles are the permissions granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. An unlimited number of roles can be created and assigned to Agents with access to various departments.
     - In Admin Panel head to Agents tab then click Roles
-    - Example shown in photos I created an "Supreme Admin" role
+    - Example shown in photos I created an "Supreme Admin" role and gave it specialized persmissions
 ![add roles ](https://github.com/TerrellSowell/OsTicket/assets/161978506/43f00909-fec0-4088-be92-08dc943ea7f4)
 ![add roles 2](https://github.com/TerrellSowell/OsTicket/assets/161978506/5eb57d00-cfb0-4ea5-8439-f66407b75d1a)<p>
 
