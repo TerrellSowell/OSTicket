@@ -57,7 +57,10 @@ OsTicket is an open source Helpdesk ticketing system. This OsTicket lab is aimed
     - Example shown in photos I added "Lebron James" as an agent and gave him access to specific deaprtments for ticket access.
 ![add new agents 1](https://github.com/TerrellSowell/OsTicket/assets/161978506/1a203573-c8e5-4d6a-8598-c38376deefac)
 ![adding agent LB](https://github.com/TerrellSowell/OsTicket/assets/161978506/4dff397b-de05-4d45-b8fb-c39e8c4e63ee)
-![giving access to LB](https://github.com/TerrellSowell/OsTicket/assets/161978506/17ba4240-1890-4e3c-9215-57238e2218e3)
+![giving access to LB](https://github.com/TerrellSowell/OsTicket/assets/161978506/17ba4240-1890-4e3c-9215-57238e2218e3)<p>
+
+* **Step 7: Config Users (Customers)** <p>
+
 
 
 
