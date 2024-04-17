@@ -39,17 +39,18 @@ OsTicket is an open source Helpdesk ticketing system. This OsTicket lab is aimed
 * **Step 4: Config Departments**<p>
     - Since tickets are routed through Departments in the help desk, there are many settings that can be set for each Department.
     - Admin Panel -> Agents -> Departments
-    - Example shown in photco I created ab "System Adminstrators" department
+    - Example shown in photo I created an "System Adminstrators" department
 ![add department SLA](https://github.com/TerrellSowell/OsTicket/assets/161978506/3f63bb51-052f-4fee-a53c-cd7bd921a361)
 ![add department 2](https://github.com/TerrellSowell/OsTicket/assets/161978506/b4bfc135-c8ec-4c4b-888e-a6678d9995a3)<p>
 
 * **Step 5: Config Teams**<p>
     - Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter.
     - Admin Panel -> Agents -> Teams
-    - i. Level I Support
-    - ii. Level II Support
+    - Example shown I created two tiers of teams: Level I Support, Level II Support
 ![add teams](https://github.com/TerrellSowell/OsTicket/assets/161978506/2f79e029-0b9d-48f2-b175-0dba7a0efab5)
-![add teams 2](https://github.com/TerrellSowell/OsTicket/assets/161978506/ce94839f-24e9-41b6-bf8b-6de5336eb422)
+![add teams 2](https://github.com/TerrellSowell/OsTicket/assets/161978506/ce94839f-24e9-41b6-bf8b-6de5336eb422)<p>
+
+
 
 
 
