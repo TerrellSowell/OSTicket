@@ -45,6 +45,8 @@ OsTicket is an open source Helpdesk ticketing system. This OsTicket lab is aimed
 * **Step 5: Config Teams**<p>
     - Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter.
     - Admin Panel -> Agents -> Teams
+    - i. Level I Support
+    - ii. Level II Support
 ![add teams](https://github.com/TerrellSowell/OsTicket/assets/161978506/2f79e029-0b9d-48f2-b175-0dba7a0efab5)
 ![add teams 2](https://github.com/TerrellSowell/OsTicket/assets/161978506/ce94839f-24e9-41b6-bf8b-6de5336eb422)
 
