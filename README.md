@@ -26,5 +26,11 @@ OsTicket is an open source Helpdesk ticketing system. This OsTicket lab is aimed
     - Create a Windows 10 virtual machine
     - Copy and paste the virtual machine's public network address into the remote desktop application to access the VM
 
-* **Step 2: Install OsTicket**
+* **Step 2: Install OsTicket**<p>
+    - Install Osticket on Windows 10 virtual machine 
+![install OS](https://github.com/TerrellSowell/OsTicket/assets/161978506/55e6f335-3abe-4e17-b6a7-b39b8b6d248e)<p>
+
+* **Step 3: Config Roles**<p>
+    - Admin Panel -> Agents -> Roles 
+
   
