@@ -12,7 +12,7 @@ OsTicket is an open source Helpdesk ticketing system. This OsTicket lab is aimed
 - Ability to generate and recognize Departments, Permissions, and Users.
 - Development of critical thinking and problem-solving skills in IT Support.
 
-### Environments and Tools Used<h2>
+### Tools and Technology used Used<h2>
 
 - Mircosoft Azure (Virtual Machines)
 - Remote Desktop
